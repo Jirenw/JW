@@ -17,13 +17,13 @@ _「〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫�
 
  ┏━━━━━━━━━━━━━━━━━━━━ 
  ┃ *┗━┅┅┄⟞⟦GRUPOS⟧⟝┄┉┉━┛*
- ┣☛ $ { prefix }unir
+ ┣☛ ${ prefix }unir
  ┃   ๛Agregar Nuevo Participante.
- ┣☛ $ { prefix }fgc
+ ┣☛ ${ prefix }fgc
  ┃   ๛Cambiar Foto Del Grupo.
- ┣☛ $ { prefix }ngc
+ ┣☛ ${ prefix }ngc
  ┃   ๛Cambiar Nombre Del Grupo.
- ┣☛ $ { prefix }dgc
+ ┣☛ ${ prefix }dgc
  ┃   ๛Cambiar Descripcion Del Grupo.
  ┣☛ ${prefix}closegc
  ┃   ๛Cerrar El Grupo.
