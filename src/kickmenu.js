@@ -1,5 +1,6 @@
 const kickmenu = (prefix, pushname) => {
-    return `*ELIMINAR PARTICIPANTE DEL GRUPO📤*
+    return `*┍━━━━╝✹BAN-GRUPO✹╚━━━━┑*
+
 ━━━━━━━━━━━━━━━━━━━━ 
 *COMANDO*
 
