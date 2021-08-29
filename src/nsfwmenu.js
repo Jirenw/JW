@@ -2,7 +2,6 @@ const nsfwmenu = (prefix, pushname) => {
     return `*┍━━━━╝✹COMANDOS +🔞✹╚━━━━┑*
 
 ┏━━━━━━━━━━━━━━━━━━━━ 
-┣*NSFW ✅*
 ┣☛ ${prefix}nsfwbobs
 ┣☛ ${prefix}nsfwsidebobs
 ┣☛ ${prefix}nsfwahegao
