@@ -1,6 +1,7 @@
 const antimenu = (prefix, pushname) => {
     return `
-*COMANDOS DE ANTILINK'S📢*
+*┍━━━━╝✹ANTILINK'S🗝️✹╚━━━━┑*
+
 ━━━━━━━━━━━━━━━━━━━━ 
 _*[][Antilink De Grupos De Whatsapp][]*_
 
