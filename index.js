@@ -742,7 +742,7 @@ break
 				  case 'wame':
   client.updatePresence(from, Presence.composing) 
       options = {
-          text: `「 *LINK WHATSAPP* 」\n\n_Solicitado por_ : @${sender.split("@s.whatsapp.net")[0]}\n\nSu link de Whatsapp : *https://wa.me/${sender.split("@s.whatsapp.net")[0]}*\n*O ( / )*\n*https://api.whatsapp.com/send?phone=${sender.split("@")[0]}*`,
+          text: `「 *LINK WHATSAPP* 」\n\n_PEDIDO DE_ : @${sender.split("@s.whatsapp.net")[0]}\n\nSU ENLACE DE WHATSAPP : *https://wa.me/${sender.split("@s.whatsapp.net")[0]}*\n*O ( / )*\n*https://api.whatsapp.com/send?phone=${sender.split("@")[0]}*`,
           contextInfo: { mentionedJid: [sender] }
     }
     client.sendMessage(from, options, text, { quoted: mek } )
@@ -758,7 +758,7 @@ break
 	
 	case 'creador':
 	       client.sendMessage(from, {displayname: "Shan 🥸", vcard: vcard}, MessageType.contact, { quoted: mek})
-		client.sendMessage(from, 'Hola 👋 te saluda XD, este es un mensaje predeterminado al igual que el audio.\n\nArriba esta mi contacto por si tienen algun problema con las descargas o yo que se.\nYo no soy dueño de este bot ni tampoco lo controlo, yo solo cree la base de datos y le doy mantenimiento.\nEl numero osea mi contacto de arriba no es un bot, si te dio pereza escuchar el audio gordito trolo.\nBueno disfruten del bot y si quieres me puedes seguir en instagram.\n\n*Mi instagram:* https://www.instagram.com/thepavos\n\n*Como instalar el bot:* https://www.youtube.com/watch?v=2LQSzEbpJ-M\n\nву ѕнαη∂υу',MessageType.text, { quoted: mek} )
+		client.sendMessage(from, 'Hola 👋 te saluda XD, este es un mensaje predeterminado al igual que el audio.\n\nArriba esta mi contacto por si tienen algun problema con las descargas o yo que se.\nYo no soy dueño de este bot ni tampoco lo controlo, yo solo cree la base de datos y le doy mantenimiento.\nEl numero osea mi contacto de arriba no es un bot, si te dio pereza escuchar el audio gordito trolo.\nBueno disfruten del bot y si quieres puedes unirte al grupo ofc.\n\n*Enlace:* https://bit.ly/3yt247X\n\n*Como instalar el bot:* https://www.youtube.com/.y?v=2LQSzEbpJ-M\n\n*By.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽*',MessageType.text, { quoted: mek} )
                 const none = fs.readFileSync('./mp3/shan.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                 break
@@ -808,7 +808,7 @@ break
 					client.updatePresence(from, Presence.composing) 
                                         if (!isUser) return reply(mess.only.daftarB)
 					if (!isGroup) return reply(mess.only.group)
-					teks = `*LISTA DE L@ ADMINS DEK GRUPO🧐🌚*\n\n${groupMetadata.subject}\n\nTOTAL: ${groupAdmins.length}\n\n`
+					teks = `*LISTA DE L@ ADMINS DEL GRUPO🧐🌚*\n\n${groupMetadata.subject}\n\nTOTAL: ${groupAdmins.length}\n\n`
 					no = 0
 					for (let admon of groupAdmins) {
 						no += 1
@@ -1097,7 +1097,7 @@ client.groupDemoteAdmin(from, mentioned)
 }
 break
 
-case 'promote':
+case 'promote': 
 client.updatePresence(from, Presence.composing) 
 if (!isUser) return reply(mess.only.daftarB)
 if (!isGroup) return reply(mess.only.group)
