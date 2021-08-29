@@ -1,5 +1,5 @@
 const nsfwmenu = (prefix, pushname) => {
-    return `*COMANDOS +18-🔞*
+    return `*┍━━━━╝✹COMANDOS +18🔞✹╚━━━━┑*
 
 *NSFW ✅*
 
