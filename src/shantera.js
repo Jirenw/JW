@@ -43,10 +43,10 @@ No funciona
 Boliviano
 Enano
 
+_*Escribe tal y como está y no te quejes del Bot.*_
 
-_*Ojito escribe tal y como esta en el mensaje*_
+*BY.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽*`
 
-ву ѕнαη∂υу`
 
 }
 
