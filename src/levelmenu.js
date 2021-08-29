@@ -1,6 +1,6 @@
 const levelmenu = (prefix, pushname) => {
     return `
-*COMANDOS DE NIVEL UwU*
+*┍━━━━╝✹NIVEL✹╚━━━━┑*
  
 ━━━━━━━━━━━━━━━━━━━━ 
 PARA ACTIVARLO EL BOT NECESITA SER ADMIN.
