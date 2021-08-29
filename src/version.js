@@ -1,6 +1,7 @@
 const version = (prefix, pushname) => {
     return `
 *┍━━━━╝✹VERSION DEL BOT✹╚━━━━┑*
+
 *Actualizado:* 29 de Agosto del 2021
 *Versión actual:* 3.8
 *Ofrecido por:*JIREN Y WENDY
