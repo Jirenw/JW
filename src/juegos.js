@@ -1,6 +1,6 @@
 const juegos = (prefix, pushname) => {
     return `
-*COMANDOS DE JUEGOS 👾*
+*┍━━━━╝✹JUEGOS✹╚━━━━┑*
  
 ${prefix}rankgay
 Conoce a los mas gays del grupo😆
