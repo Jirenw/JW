@@ -1,5 +1,5 @@
 const banmenu = (prefix, pushname) => {
-    return `*PROHIBIR EL USO DEL BOT*
+    return `*┍━━━━╝✹BAN-BOT✹╚━━━━┑*
     
  _👀EL BOT DEBE SER ADMIN👀_
 
