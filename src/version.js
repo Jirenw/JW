@@ -17,7 +17,7 @@ const version = (prefix, pushname) => {
 BY.〲⎠⎠ɪʀᴇɴ〴᭄Y🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽
 
 *UNETE A NUESTRO GRUPO OFICIAL*
-https://bit.ly/3yt247X
+7w7
 `
 }
 
